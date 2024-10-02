@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: mybaynexx
+Version: 1.7.2
+Summary: Framework criado para contemplar as principais funcionalidades utilizadasna criação dos robôs.
+Download-URL: https://git.nexxera.com/impdev/mybaynexx
+Requires-Dist: selenium==4.11.2
